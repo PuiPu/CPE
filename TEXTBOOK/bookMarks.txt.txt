@@ -1,0 +1,19 @@
+BookmarkBegin
+BookmarkTitle: Chapter 1: Introduction
+BookmarkLevel: 1
+BookmarkPageNumber: 31
+
+BookmarkBegin
+BookmarkTitle: Chapter 2: Data Structures and Libraries
+BookmarkLevel: 1
+BookmarkPageNumber: 83
+
+BookmarkBegin
+BookmarkTitle: Chapter 3: Problem Solving Paradigms
+BookmarkLevel: 1
+BookmarkPageNumber: 159
+
+BookmarkBegin
+BookmarkTitle: Chapter 4: Graph
+BookmarkLevel: 1
+BookmarkPageNumber: 223
